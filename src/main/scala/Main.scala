@@ -14,10 +14,12 @@ object Main extends App {
   var gameRunning = true
 
   while (gameRunning) {
-    println(Console.BLUE + "\n🔹 Choose an option: 1, 2, or 3 🔹" + Console.RESET)
+    println(Console.BLUE + "\n🔹 Choose an option: 1, 2, 3 or 4 🔹" + Console.RESET)
     println(Console.YELLOW + "1️⃣ Ask a question" + Console.RESET)
     println(Console.YELLOW + "2️⃣ Guess the character" + Console.RESET)
-    println(Console.YELLOW + "3️⃣ Exit game\n" + Console.RESET)
+    println(Console.YELLOW + "3️⃣ Get a hint" + Console.RESET)
+    println(Console.YELLOW + "4️⃣ Exit game\n" + Console.RESET)
+
 
     val choice: String = StdIn.readLine()
 
@@ -35,11 +37,15 @@ object Main extends App {
         }
 
       case "3" =>
+        println(Console.CYAN + "🕵 Hint!" + Console.RESET)
+       game.getHint
+
+      case "4" =>
         println(Console.RED + "🚪 Exiting game. Thanks for playing!" + Console.RESET)
         gameRunning = false
 
       case _ =>
-        println(Console.RED + "⚠️ Invalid choice. Please enter 1, 2, or 3." + Console.RESET)
+        println(Console.RED + "⚠️ Invalid choice. Please enter 1, 2, 3 or 4." + Console.RESET)
     }
   }
 }

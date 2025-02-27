@@ -1,3 +1,5 @@
+import scala.util.Random
+
 //Handles game state, manages remaining characters, and processes user actions (questions & guesses).
 class GameLogic {
 
@@ -10,7 +12,23 @@ class GameLogic {
     "Halaand" -> "⚽", "Dorothea" -> "📚", "Sandra" -> "🚀", "Mary" -> "🎭"
   )
 
-  def askQuestion(question: String): List[Character] = {
+  var listOfHints: List[String] = List(" glasses", " hat", " female", " male", " brown hair", " red hair", " blonde hair", " black hair")
+
+  def getHint: Unit = {
+    val chosenHint: String = listOfHints(Random.nextInt(listOfHints.length))
+    listOfHints = listOfHints.filterNot(hint => hint == chosenHint)
+    val (answer, newRemainingCharacters) = QuestionFilter.filterCharacters(remainingCharacters, chosenHint, secretCharacter)
+    answer match {
+      case true => println(s"${Console.CYAN}The secret character has the following trait:$chosenHint${Console.RESET}")
+      case _ => println(s"${Console.CYAN}The secret character doesn't have the following trait:$chosenHint${Console.RESET}")
+    }
+
+    remainingCharacters = newRemainingCharacters
+    displayRemainingCharacters()
+  }
+
+
+  def askQuestion(question: String): Unit = {
     val (answer, newRemainingCharacters) = QuestionFilter.filterCharacters(remainingCharacters, question, secretCharacter)
 
     if (answer) {
@@ -21,7 +39,6 @@ class GameLogic {
 
     remainingCharacters = newRemainingCharacters
     displayRemainingCharacters()
-    remainingCharacters
   }
 
   def guessCharacter(name: String): Boolean = {
