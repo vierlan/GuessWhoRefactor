@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c7d2e7-40f8-4136-ad61-d6605d670397" name="Changes" comment="">
+    <list default="true" id="73b48b85-7161-4aa4-a0ee-01b285c4604d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/QuestionFilter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/QuestionFilter.scala" afterDir="false" />
+    </list>
+    <list id="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" name="Changes by eloise.holland" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/QuestionFilter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/QuestionFilter.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,230 +40,69 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="MVP" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;waris1hezb&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:waris1hezb/GuesswhoGame.git&quot;,
-    &quot;accountId&quot;: &quot;8c746b9c-da70-4920-9f82-10442edfcdbc&quot;
-  }
-}</component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/main/scala/QuestionFilter.scala">
+      <ranges>
+        <range start1="0" end1="0" start2="0" end2="2" changelist="73b48b85-7161-4aa4-a0ee-01b285c4604d" />
+        <range start1="7" end1="8" start2="9" end2="9" changelist="73b48b85-7161-4aa4-a0ee-01b285c4604d" />
+        <range start1="11" end1="11" start2="12" end2="22" changelist="73b48b85-7161-4aa4-a0ee-01b285c4604d" />
+        <range start1="12" end1="15" start2="23" end2="26" changelist="73b48b85-7161-4aa4-a0ee-01b285c4604d" />
+        <range start1="16" end1="16" start2="27" end2="33" changelist="73b48b85-7161-4aa4-a0ee-01b285c4604d" />
+        <range start1="18" end1="19" start2="35" end2="36" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
+        <range start1="22" end1="23" start2="39" end2="40" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
+        <range start1="29" end1="31" start2="46" end2="48" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
+        <range start1="35" end1="36" start2="52" end2="53" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
+        <range start1="37" end1="38" start2="54" end2="55" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
+        <range start1="39" end1="40" start2="56" end2="57" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
+        <range start1="41" end1="42" start2="58" end2="59" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2tBT3lvMZwUDsNk3003DAA2wfV7" />
+  <component name="ProjectId" id="2tcZRdFngqE6YwQgRll5AUgTcLI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return a Boolean and a list of characters wearing glasses when the characters wear glasses.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return a boolean and a list of characters wearing a hat when the characters wear a hat.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return a boolean and a list of characters wearing glasses when the characters wear glasses.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return a list of characters wearing glasses when the characters wear glasses.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return a list of characters wearing glasses when they wear glasses..executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return a list of characters wearing glasses when they wear glasses.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return false and a list of all characters when anything is invalid.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return false and a list of all characters when nothing is entered.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return false and a list of characters wearing a hat when the characters wear a hat.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return false and a list of characters who are not blonde when the characters are not blonde.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return true and a list of characters wearing glasses when the characters wear glasses\nfilterCharacters should return false and a list of characters wearing a hat when the characters wear a hat\nfilterCharacters should return a boolean and a list of characters who are male when the characters are men\nfilterCharacters should return false and a list of characters who are male when the characters are male\nfilterCharacters should return false and a list of characters who are not blonde when the characters are not blonde\nfilterCharacters should return true and a list of characters who have black hair when the characters have black hair\nfilterCharacters should return false and a list of all characters when anything is invalid\nfilterCharacters should return false and a list of all characters when nothing is entered.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return true and a list of characters wearing glasses when the characters wear glasses\nfilterCharacters should return false and a list of characters wearing a hat when the characters wear a hat\nfilterCharacters should return true and a list of characters who are male when the characters are men\nfilterCharacters should return false and a list of characters who are male when the characters are male\nfilterCharacters should return false and a list of characters who are not blonde when the characters are not blonde\nfilterCharacters should return true and a list of characters who have black hair when the characters have black hair\nfilterCharacters should return false and a list of all characters when anything is invalid\nfilterCharacters should return false and a list of all characters when nothing is entered.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return true and a list of characters wearing glasses when the characters wear glasses.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.QuestionFilterSpec.filterCharacters should return true and a list of characters who have black hair when the characters have black hair.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;MVP&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/waris.hezb/Documents/GuesswhoGame&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "refactor",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/farnoosh.moayeri/Documents/GitHub/refactorGuessWho/GuessWhoRefactor"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GuesswhoGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="guesswhogame_4782" />
+      <module name="GuessWhoRefactor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="guesswhogame_4782" />
+      <module name="GuessWhoRefactor" />
       <option name="filePath" />
       <method v="2" />
     </configuration>
-    <configuration name="QuestionFilterSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="GuesswhoGame" />
-      <option name="VMParameters" value="" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="alternativeJrePath" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="classpathModifications">
-        <list />
-      </option>
-      <option name="envFilePaths">
-        <list />
-      </option>
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Class" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="QuestionFilterSpec" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionFilterSpec.filterCharacters should return false and a list of all characters when anything is invalid" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="GuesswhoGame" />
-      <option name="VMParameters" value="" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="alternativeJrePath" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="classpathModifications">
-        <list />
-      </option>
-      <option name="envFilePaths">
-        <list />
-      </option>
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Test name" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="QuestionFilterSpec" />
-      <option name="testName" value="filterCharacters should return false and a list of all characters when anything is invalid" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionFilterSpec.filterCharacters should return false and a list of all characters when nothing is entered" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="GuesswhoGame" />
-      <option name="VMParameters" value="" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="alternativeJrePath" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="classpathModifications">
-        <list />
-      </option>
-      <option name="envFilePaths">
-        <list />
-      </option>
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Test name" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="QuestionFilterSpec" />
-      <option name="testName" value="filterCharacters should return false and a list of all characters when nothing is entered" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionFilterSpec.filterCharacters should return true and a list of characters wearing glasses when the characters wear glasses" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="GuesswhoGame" />
-      <option name="VMParameters" value="" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="alternativeJrePath" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="classpathModifications">
-        <list />
-      </option>
-      <option name="envFilePaths">
-        <list />
-      </option>
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Test name" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="QuestionFilterSpec" />
-      <option name="testName" value="filterCharacters should return true and a list of characters wearing glasses when the characters wear glasses" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionFilterSpec.filterCharacters should return true and a list of characters wearing glasses when the characters wear glasses&#10;filterCharacters should return false and a list of characters wearing a hat when the characters wear a hat&#10;filterCharacters should return true and a list of characters who are male when the characters are men&#10;filterCharacters should return false and a list of characters who are male when the characters are male&#10;filterCharacters should return false and a list of characters who are not blonde when the characters are not blonde&#10;filterCharacters should return true and a list of characters who have black hair when the characters have black hair&#10;filterCharacters should return false and a list of all characters when anything is invalid&#10;filterCharacters should return false and a list of all characters when nothing is entered" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="GuesswhoGame" />
-      <option name="VMParameters" value="" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="alternativeJrePath" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="classpathModifications">
-        <list />
-      </option>
-      <option name="envFilePaths">
-        <list />
-      </option>
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Test name" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="QuestionFilterSpec" />
-      <option name="testName" value="filterCharacters should return true and a list of characters wearing glasses when the characters wear glasses&#10;filterCharacters should return false and a list of characters wearing a hat when the characters wear a hat&#10;filterCharacters should return true and a list of characters who are male when the characters are men&#10;filterCharacters should return false and a list of characters who are male when the characters are male&#10;filterCharacters should return false and a list of characters who are not blonde when the characters are not blonde&#10;filterCharacters should return true and a list of characters who have black hair when the characters have black hair&#10;filterCharacters should return false and a list of all characters when anything is invalid&#10;filterCharacters should return false and a list of all characters when nothing is entered" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="ScalaTest.QuestionFilterSpec" />
-        <item itemvalue="ScalaTest.QuestionFilterSpec.filterCharacters should return true and a list of characters wearing glasses when the characters wear glasses" />
-        <item itemvalue="ScalaTest.QuestionFilterSpec.filterCharacters should return true and a list of characters wearing glasses when the characters wear glasses&#10;filterCharacters should return false and a list of characters wearing a hat when the characters wear a hat&#10;filterCharacters should return true and a list of characters who are male when the characters are men&#10;filterCharacters should return false and a list of characters who are male when the characters are male&#10;filterCharacters should return false and a list of characters who are not blonde when the characters are not blonde&#10;filterCharacters should return true and a list of characters who have black hair when the characters have black hair&#10;filterCharacters should return false and a list of all characters when anything is invalid&#10;filterCharacters should return false and a list of all characters when nothing is entered" />
-        <item itemvalue="ScalaTest.QuestionFilterSpec.filterCharacters should return false and a list of all characters when nothing is entered" />
-        <item itemvalue="ScalaTest.QuestionFilterSpec.filterCharacters should return false and a list of all characters when anything is invalid" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -268,23 +112,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c7c7d2e7-40f8-4136-ad61-d6605d670397" name="Changes" comment="" />
-      <created>1739824271091</created>
+      <changelist id="73b48b85-7161-4aa4-a0ee-01b285c4604d" name="Changes" comment="" />
+      <created>1740653315446</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1739824271091</updated>
+      <updated>1740653315446</updated>
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/src/test/scala/QuestionFilterSpec.scala</url>
-          <line>109</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GuesswhoGame$Main.ic" NAME="Main Coverage Results" MODIFIED="1740657927632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
