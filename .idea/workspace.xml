@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73b48b85-7161-4aa4-a0ee-01b285c4604d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+    <list default="true" id="94ad7b33-1ecf-40f4-935a-2df1acae4da1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/QuestionFilter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/QuestionFilter.scala" afterDir="false" />
-    </list>
-    <list id="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" name="Changes by eloise.holland" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/QuestionFilter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/QuestionFilter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/GameLogic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/GameLogic.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,31 +40,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/main/scala/QuestionFilter.scala">
-      <ranges>
-        <range start1="0" end1="0" start2="0" end2="2" changelist="73b48b85-7161-4aa4-a0ee-01b285c4604d" />
-        <range start1="7" end1="8" start2="9" end2="9" changelist="73b48b85-7161-4aa4-a0ee-01b285c4604d" />
-        <range start1="11" end1="11" start2="12" end2="22" changelist="73b48b85-7161-4aa4-a0ee-01b285c4604d" />
-        <range start1="12" end1="15" start2="23" end2="26" changelist="73b48b85-7161-4aa4-a0ee-01b285c4604d" />
-        <range start1="16" end1="16" start2="27" end2="33" changelist="73b48b85-7161-4aa4-a0ee-01b285c4604d" />
-        <range start1="18" end1="19" start2="35" end2="36" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
-        <range start1="22" end1="23" start2="39" end2="40" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
-        <range start1="29" end1="31" start2="46" end2="48" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
-        <range start1="35" end1="36" start2="52" end2="53" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
-        <range start1="37" end1="38" start2="54" end2="55" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
-        <range start1="39" end1="40" start2="56" end2="57" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
-        <range start1="41" end1="42" start2="58" end2="59" changelist="1b8defa7-32ce-4fe3-a867-3eb22fbae7b6" />
-      </ranges>
-    </file>
-  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "eloiseyaz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:vierlan/GuessWhoRefactor.git",
+    "accountId": "afc25706-e7aa-4de3-876d-b71e6998b12c"
+  }
+}]]></component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="2tcZRdFngqE6YwQgRll5AUgTcLI" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2tcbOMON80c1z2ASyA4GfQfkGEF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,8 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "refactor",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/farnoosh.moayeri/Documents/GitHub/refactorGuessWho/GuessWhoRefactor"
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -90,13 +82,11 @@
       </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="GuessWhoRefactor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="GuessWhoRefactor" />
       <option name="filePath" />
       <method v="2" />
     </configuration>
@@ -112,15 +102,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="73b48b85-7161-4aa4-a0ee-01b285c4604d" name="Changes" comment="" />
-      <created>1740653315446</created>
+      <changelist id="94ad7b33-1ecf-40f4-935a-2df1acae4da1" name="Changes" comment="" />
+      <created>1740654278973</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1740653315446</updated>
+      <updated>1740654278973</updated>
     </task>
     <servers />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GuesswhoGame$Main.ic" NAME="Main Coverage Results" MODIFIED="1740657927632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>

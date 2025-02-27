@@ -19,22 +19,22 @@ object Main extends App {
     println(Console.YELLOW + "2️⃣ Guess the character" + Console.RESET)
     println(Console.YELLOW + "3️⃣ Exit game\n" + Console.RESET)
 
-    val choice = StdIn.readInt()
+    val choice: String = StdIn.readLine()
 
     choice match {
-      case 1 =>
+      case "1" =>
         println(Console.CYAN + "💡 Enter your question:" + Console.RESET)
         val question = StdIn.readLine()
         game.askQuestion(question)
 
-      case 2 =>
+      case "2" =>
         println(Console.CYAN + "🎯 Enter the name of the character you want to guess:" + Console.RESET)
         val name = StdIn.readLine().capitalize
         if (game.guessCharacter(name)) {
           gameRunning = false
         }
 
-      case 3 =>
+      case "3" =>
         println(Console.RED + "🚪 Exiting game. Thanks for playing!" + Console.RESET)
         gameRunning = false
 
