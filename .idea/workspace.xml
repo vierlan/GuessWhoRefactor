@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94ad7b33-1ecf-40f4-935a-2df1acae4da1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/GameLogic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/GameLogic.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
     </list>
+    <list id="9d38f2d7-c165-40b9-b5ef-e64d85b36184" name="Changes by eloise.holland" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/GameLogic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/GameLogic.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
+    </list>
+    <list id="d593bae1-ac7d-4a0b-8069-602faac8c3e8" name="Changes by lan.nguyen" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,25 +44,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "eloiseyaz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eloiseyaz&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:vierlan/GuessWhoRefactor.git",
-    "accountId": "afc25706-e7aa-4de3-876d-b71e6998b12c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:vierlan/GuessWhoRefactor.git&quot;,
+    &quot;accountId&quot;: &quot;afc25706-e7aa-4de3-876d-b71e6998b12c&quot;
   }
-}]]></component>
+}</component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/main/scala/GameLogic.scala">
+      <ranges>
+        <range start1="0" end1="0" start2="0" end2="2" changelist="94ad7b33-1ecf-40f4-935a-2df1acae4da1" />
+        <range start1="11" end1="11" start2="13" end2="29" changelist="94ad7b33-1ecf-40f4-935a-2df1acae4da1" />
+        <range start1="12" end1="13" start2="30" end2="31" changelist="9d38f2d7-c165-40b9-b5ef-e64d85b36184" />
+        <range start1="23" end1="24" start2="41" end2="41" changelist="9d38f2d7-c165-40b9-b5ef-e64d85b36184" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/src/main/scala/Main.scala">
+      <ranges>
+        <range start1="16" end1="17" start2="16" end2="17" changelist="9d38f2d7-c165-40b9-b5ef-e64d85b36184" />
+        <range start1="19" end1="20" start2="19" end2="22" changelist="94ad7b33-1ecf-40f4-935a-2df1acae4da1" />
+        <range start1="37" end1="37" start2="39" end2="43" changelist="94ad7b33-1ecf-40f4-935a-2df1acae4da1" />
+        <range start1="41" end1="42" start2="47" end2="48" changelist="94ad7b33-1ecf-40f4-935a-2df1acae4da1" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2tcbOMON80c1z2ASyA4GfQfkGEF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -69,7 +91,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "refactor",
+    "git-widget-placeholder": "m",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
